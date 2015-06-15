@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../exlibs/apache-mime4j-0.6.jar!/" />
+          <root url="jar://$MODULE_DIR$/../exlibs/bsh-1.3.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../exlibs/cglib-nodep-2.1_3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../exlibs/commons-codec-1.9.jar!/" />
+          <root url="jar://$MODULE_DIR$/../exlibs/commons-collections-3.2.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../exlibs/commons-exec-1.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../exlibs/commons-io-2.4.jar!/" />
+          <root url="jar://$MODULE_DIR$/../exlibs/commons-jxpath-1.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../exlibs/commons-lang3-3.3.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../exlibs/commons-logging-1.1.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../exlibs/cssparser-0.9.14.jar!/" />
+          <root url="jar://$MODULE_DIR$/../exlibs/gson-2.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../exlibs/guava-18.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../exlibs/hamcrest-core-1.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../exlibs/hamcrest-library-1.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../exlibs/htmlunit-2.15.jar!/" />
+          <root url="jar://$MODULE_DIR$/../exlibs/htmlunit-core-js-2.15.jar!/" />
+          <root url="jar://$MODULE_DIR$/../exlibs/httpclient-4.3.4.jar!/" />
+          <root url="jar://$MODULE_DIR$/../exlibs/httpcore-4.3.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../exlibs/httpmime-4.3.4.jar!/" />
+          <root url="jar://$MODULE_DIR$/../exlibs/ini4j-0.5.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../exlibs/jcommander-1.29.jar!/" />
+          <root url="jar://$MODULE_DIR$/../exlibs/jetty-websocket-8.1.8.jar!/" />
+          <root url="jar://$MODULE_DIR$/../exlibs/jna-3.4.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../exlibs/jna-platform-3.4.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../exlibs/junit-dep-4.11.jar!/" />
+          <root url="jar://$MODULE_DIR$/../exlibs/log4j-api-2.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../exlibs/log4j-core-2.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../exlibs/nekohtml-1.9.21.jar!/" />
+          <root url="jar://$MODULE_DIR$/../exlibs/netty-3.5.7.Final.jar!/" />
+          <root url="jar://$MODULE_DIR$/../exlibs/operadriver-1.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/../exlibs/phantomjsdriver-1.1.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../exlibs/protobuf-java-2.4.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../exlibs/sac-1.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../exlibs/selenium-java-2.44.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../exlibs/selenium-safari-driver-2.29.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../exlibs/serializer-2.7.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../exlibs/testng-6.8.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/../exlibs/xalan-2.7.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../exlibs/xercesImpl-2.11.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../exlibs/xml-apis-1.4.01.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../exlibs/selenium-java-2.44.0-srcs.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
